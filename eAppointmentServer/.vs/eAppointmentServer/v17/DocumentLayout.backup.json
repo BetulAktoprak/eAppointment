@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\YetenekBasaksehir\\YB\\Udemy\\eAppointment\\eAppointmentServer\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4190C2-EFBB-4870-B0AB-0029459E3651}|eAppointmentServer.Infrastructur\\eAppointmentServer.Infrastructur.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\yetenekbasaksehir\\yb\\udemy\\eappointment\\eappointmentserver\\eappointmentserver.infrastructur\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4190C2-EFBB-4870-B0AB-0029459E3651}|eAppointmentServer.Infrastructur\\eAppointmentServer.Infrastructur.csproj|solutionrelative:eappointmentserver.infrastructur\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A7CC47B-BE0F-4D7E-AF11-6C08765684F7}|eAppointmentServer.Domain\\eAppointmentServer.Domain.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\yetenekbasaksehir\\yb\\udemy\\eappointment\\eappointmentserver\\eappointmentserver.domain\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A7CC47B-BE0F-4D7E-AF11-6C08765684F7}|eAppointmentServer.Domain\\eAppointmentServer.Domain.csproj|solutionrelative:eappointmentserver.domain\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4190C2-EFBB-4870-B0AB-0029459E3651}|eAppointmentServer.Infrastructur\\eAppointmentServer.Infrastructur.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\yetenekbasaksehir\\yb\\udemy\\eappointment\\eappointmentserver\\eappointmentserver.infrastructur\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4190C2-EFBB-4870-B0AB-0029459E3651}|eAppointmentServer.Infrastructur\\eAppointmentServer.Infrastructur.csproj|solutionrelative:eappointmentserver.infrastructur\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,47 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\YetenekBasaksehir\\YB\\Udemy\\eAppointment\\eAppointmentServer\\eAppointmentServer.Domain\\Repositories\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "eAppointmentServer.Domain\\Repositories\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\YetenekBasaksehir\\YB\\Udemy\\eAppointment\\eAppointmentServer\\eAppointmentServer.Domain\\Repositories\\IUnitOfWork.cs",
-              "RelativeToolTip": "eAppointmentServer.Domain\\Repositories\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T23:11:46.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\YetenekBasaksehir\\YB\\Udemy\\eAppointment\\eAppointmentServer\\eAppointmentServer.Infrastructur\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "eAppointmentServer.Infrastructur\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\YetenekBasaksehir\\YB\\Udemy\\eAppointment\\eAppointmentServer\\eAppointmentServer.Infrastructur\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "eAppointmentServer.Infrastructur\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T23:03:29.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\YetenekBasaksehir\\YB\\Udemy\\eAppointment\\eAppointmentServer\\eAppointmentServer.Infrastructur\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "eAppointmentServer.Infrastructur\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\YetenekBasaksehir\\YB\\Udemy\\eAppointment\\eAppointmentServer\\eAppointmentServer.Infrastructur\\DependencyInjection.cs",
-              "RelativeToolTip": "eAppointmentServer.Infrastructur\\DependencyInjection.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA2wCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T23:02:13.26Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
