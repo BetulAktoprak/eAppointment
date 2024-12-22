@@ -16,3 +16,5 @@ C:\Users\Asus\OneDrive\Masaüstü\YetenekBasaksehir\YB\Udemy\eAppointment\eAppoi
 C:\Users\Asus\OneDrive\Masaüstü\YetenekBasaksehir\YB\Udemy\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructur\obj\Debug\net8.0\eAppointmentServer.Infrastructur.pdb
 C:\Users\Asus\OneDrive\Masaüstü\YetenekBasaksehir\YB\Udemy\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructur\obj\Debug\net8.0\eAppointmentServer.Infrastructur.genruntimeconfig.cache
 C:\Users\Asus\OneDrive\Masaüstü\YetenekBasaksehir\YB\Udemy\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructur\obj\Debug\net8.0\ref\eAppointmentServer.Infrastructur.dll
+C:\Users\Asus\OneDrive\Masaüstü\YetenekBasaksehir\YB\Udemy\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructur\bin\Debug\net8.0\eAppointmentServer.Application.dll
+C:\Users\Asus\OneDrive\Masaüstü\YetenekBasaksehir\YB\Udemy\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructur\bin\Debug\net8.0\eAppointmentServer.Application.pdb

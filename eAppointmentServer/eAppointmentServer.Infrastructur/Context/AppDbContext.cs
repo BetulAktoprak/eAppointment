@@ -6,15 +6,16 @@ using Microsoft.EntityFrameworkCore;
 using System.Reflection;
 
 namespace eAppointmentServer.Infrastructur.Context;
-internal sealed class AppDbContext : IdentityDbContext<AppUser, AppRole, Guid>, IUnitOfWork
+internal sealed class AppDbContext : IdentityDbContext<AppUser, AppRole, Guid, IdentityUserClaim<Guid>, AppUserRole, IdentityUserLogin<Guid>, IdentityRoleClaim<Guid>, IdentityUserToken<Guid>>, IUnitOfWork
 {
     public AppDbContext(DbContextOptions options) : base(options)
     {
 
     }
-    public DbSet<Doctor> Doctors { get; set; }
-    public DbSet<Patient> Patients { get; set; }
-    public DbSet<Appointment> Appointments { get; set; }
+
+    public DbSet<Doctor>? Doctors { get; set; }
+    public DbSet<Patient>? Patients { get; set; }
+    public DbSet<Appointment>? Appointments { get; set; }
 
     protected override void OnModelCreating(ModelBuilder builder)
     {
